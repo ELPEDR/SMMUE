@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1768660301,
+	"version": 1768665509,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -325,6 +325,8 @@
 		"images/sprite4-sheet0.png",
 		"images/spr_slopes_3-sheet0.png",
 		"images/spr_slopes_3-sheet1.png",
+		"images/spritefont4.png",
+		"images/spr_colisao_ajustes-sheet0.png",
 		"media/pass.ogg",
 		"media/pulo_smw.ogg",
 		"media/play.ogg",
